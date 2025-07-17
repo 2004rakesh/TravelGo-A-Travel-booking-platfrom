@@ -6,13 +6,21 @@ TravelGo is a full-featured travel booking web application built with Flask (Pyt
 
 
 User Registration & Login
+
 Train Booking
+
 Flight Booking
+
 Bus Booking
+
 Hotel Booking
+
 Dashboard with Booking History
+
 Dynamodb for data storage
+
 Session Management
+
 Responsive front-end with HTML, CSS & JavaScript
 
 
@@ -20,6 +28,9 @@ Responsive front-end with HTML, CSS & JavaScript
 
 
 Backend: Flask (Python)
+
 Frontend: HTML, CSS, JavaScript
+
 Database: Dynamodb
+
 Tools: Flask-Login, Jinja2 Templates, Fetch API
